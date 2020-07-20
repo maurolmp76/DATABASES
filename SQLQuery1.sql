@@ -1,0 +1,5 @@
+--SELECT * FROM products
+--SELECT * FROM orders
+--SELECT * FROM [order details]
+--/*se requiere mostrar todos los empleados de la empresa*/
+--SELECT * FROM Employees
